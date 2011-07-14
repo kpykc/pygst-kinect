@@ -13,10 +13,10 @@ Python Gstreamer Elements for Kinect
 === Usage
 
 To enable gstreamer debugging messages:
-[source, bash]
-source dbgrc
+
+	source dbgrc
 
 To start example pipelines:
-[source, bash]
-python pipe.py
+
+	python pipe.py
 
