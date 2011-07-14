@@ -1,0 +1,3 @@
+export GST_DEBUG="*:2,GST_CAPS:2"
+alias dbg2='export GST_DEBUG="*:2,GST_CAPS:2"'
+alias dbg3='export GST_DEBUG="*:3,GST_CAPS:3"'

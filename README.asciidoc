@@ -1,0 +1,6 @@
+= pygst-kinect
+
+== Overview
+
+Python Gstreamer Elements for Kinect
+
