@@ -4,3 +4,19 @@
 
 Python Gstreamer Elements for Kinect
 
+=== Dependencies
+
+- python-gstreamer
+- python-freenect
+- python-numpy
+
+=== Usage
+
+To enable gstreamer debugging messages:
+[source, bash]
+source dbgrc
+
+To start example pipelines:
+[source, bash]
+python pipe.py
+
